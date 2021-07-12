@@ -1,10 +1,13 @@
 # Team Profile Generator
   [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
-  ## Description
+## Description
 This app allows a Manager to create a new HTML Team Profile page that display's all employee's and what they do in the company.
 
 UPDATE: Currently Unfinished
+
+## Video Walkthrough
+[Link](https://drive.google.com/file/d/1bB5QKaHLGdPXECBq5EFUE5HvD3QrpWLL/view)
 
 ## Table of Contents 
 
