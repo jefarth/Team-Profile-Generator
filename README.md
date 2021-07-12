@@ -4,6 +4,8 @@
   ## Description
 This app allows a Manager to create a new HTML Team Profile page that display's all employee's and what they do in the company.
 
+UPDATE: Currently Unfinished
+
 ## Table of Contents 
 
 * [Installation](#installation)
